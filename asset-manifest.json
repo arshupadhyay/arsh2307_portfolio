@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/arsh2307_portfolio/static/css/main.18af67b2.css",
+    "main.js": "/arsh2307_portfolio/static/js/main.89a07e1b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/arsh2307_portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/helvetica-neu.ttf": "/arsh2307_portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo-a.png": "/arsh2307_portfolio/static/media/logo-a.fa121c9c801927f87051.png",
+    "static/media/LaBelleAurore.woff2": "/arsh2307_portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/arsh2307_portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/arsh2307_portfolio/index.html",
+    "main.18af67b2.css.map": "/arsh2307_portfolio/static/css/main.18af67b2.css.map",
+    "main.89a07e1b.js.map": "/arsh2307_portfolio/static/js/main.89a07e1b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/arsh2307_portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18af67b2.css",
+    "static/js/main.89a07e1b.js"
+  ]
+}
